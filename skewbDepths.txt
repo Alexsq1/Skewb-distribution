@@ -1,0 +1,13 @@
+Depth 0: 1 positions:
+Depth 1: 8 positions:
+Depth 2: 48 positions: 
+Depth 3: 288 positions: 
+Depth 4: 1728 positions: 
+Depth 5: 10248 positions: 
+Depth 6: 59304 positions: 
+Depth 7: 315198 positions: 
+Depth 8: 1225483 positions: 
+Depth 9: 1455856 positions: 
+Depth 10: 81028 positions: 
+Depth 11: 90 positions: 
+Skewb Depth is 11, solved in 39.93 seconds
